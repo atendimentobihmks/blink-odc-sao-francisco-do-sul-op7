@@ -4,9 +4,9 @@ Canal oficial de multi-links e apresentação digital da unidade **OdontoCompany
 
 ## 📋 Informações da Unidade
 * **Responsável Técnico:** Dra. Camila L. R. F. da Silva
-* **CRO:** CRO-SC 17.525 • CL 3209
-* **Telefone / WhatsApp:** (47) 99187-5784
-* **Endereço:** Rua Barão do Rio Branco, 442, Centro, São Francisco do Sul/SC - CEP 89240-000
+* **CRO:** CRO-SC 023569
+* **Telefone / WhatsApp:** (47) 9129-2896
+* **Endereço:** Avenida Barão do Rio Branco, 489 - Sala 06, Centro, São Francisco do Sul/SC - CEP 89330-001
 * **Horários:** Segunda a Sexta: 08h às 19h | Sábado: 08h às 13h
 
 ## 🚀 Tecnologias

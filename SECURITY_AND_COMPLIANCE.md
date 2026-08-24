@@ -1,8 +1,8 @@
 # Segurança, Privacidade e Conformidade LGPD
 
 ## Unidade: OdontoCompany São Francisco do Sul
-* **Responsável Técnico:** Dra. Camila L. R. F. da Silva (CRO-SC 17.525 • CL 3209)
-* **Endereço:** Rua Barão do Rio Branco, 442, Centro, São Francisco do Sul/SC - CEP 89240-000
+* **Responsável Técnico:** Dra. Camila L. R. F. da Silva (CRO-SC 023569)
+* **Endereço:** Avenida Barão do Rio Branco, 489 - Sala 06, Centro, São Francisco do Sul/SC - CEP 89330-001
 * **Data de Implementação:** Agosto de 2026
 
 ---
