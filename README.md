@@ -1,32 +1,29 @@
-# OdontoCompany São Francisco do Sul — OPLINK (Multi-Links Oficial)
+# OPLINK — OdontoCompany São Francisco do Sul
 
-Canal oficial de multi-links e apresentação digital da unidade **OdontoCompany São Francisco do Sul**.
+OPLINK oficial de alta performance da unidade **OdontoCompany São Francisco do Sul** (São Francisco do Sul - SC), desenvolvido e mantido pela **OP7 Franchising**.
 
-## 📋 Informações da Unidade
-* **Responsável Técnico:** Dra. Camila L. R. F. da Silva
-* **CRO:** CRO-SC 023569
-* **Telefone / WhatsApp:** (47) 9129-2896
-* **Endereço:** Avenida Barão do Rio Branco, 489 - Sala 06, Centro, São Francisco do Sul/SC - CEP 89330-001
-* **Horários:** Segunda a Sexta: 08h às 19h | Sábado: 08h às 13h
+## 📌 Informações da Unidade
+- **Unidade:** OdontoCompany São Francisco do Sul
+- **Responsável Técnico:** Dra. Camila L. R. F. da Silva (CRO-SC 023569)
+- **Cidade / UF:** São Francisco do Sul - SC
+- **WhatsApp Oficial:** (47) 9129-2896
+- **Site Oficial / LP:** [https://odc-franquados-sao-francisco-do-sul-op7.vercel.app](https://odc-franquados-sao-francisco-do-sul-op7.vercel.app)
+- **Instagram:** [@odontocompany_saofranciscodosul](https://www.instagram.com/odontocompany_saofranciscodosul/)
 
-## 🚀 Tecnologias
-* HTML5 Semântico & Moderno
-* CSS3 Puro (Custom Properties, Double-Bezel, Glassmorphism, Responsive Mobile-First)
-* JavaScript Vanilla (Carrossel Touch-Swipe, Live Status de Horários, Modais Acessíveis)
-* Zero Build Step (Compatível 100% com Vercel "Other" / Static Deploy)
+## ⚡ Stack Tecnológica & Performance
+- **Arquitetura:** Jamstack / Mobile-First Bio-Link 100% Estático (Zero JavaScript Framework Overhead)
+- **Engine:** HTML5 Semântico + CSS3 Moderno (Custom Properties, Backdrop Blur) + Vanilla JavaScript
+- **Ícones & Imagens:** Vetores SVG Matemáticos + WebP de Alta Compressão
+- **Acessibilidade & SEO:** OpenGraph, Twitter Cards, Schema.org JSON-LD (Dentist Specification)
+- **Hospedagem / Deploy:** Vercel (Preset: *Other*)
 
-## 📦 Como Rodar Localmente
-Basta abrir o arquivo `index.html` em qualquer navegador ou rodar um servidor web estático:
-
+## 🚀 Como Executar Localmente
 ```bash
-# Com Python
-python -m http.server 3000
-
-# Com Node / npx
+# Servir com qualquer servidor estático HTTP
 npx serve .
+# ou com Python
+python -m http.server 8080
 ```
 
-## 🌐 Deploy na Vercel
-1. Criar novo projeto na Vercel importando este repositório.
-2. Selecionar o Framework Preset: **Other**.
-3. Clicar em **Deploy**. O site estará no ar em segundos!
+---
+*© ODONTOCOMPANY SÃO FRANCISCO DO SUL. Desenvolvido por OP7 Franchising.*
