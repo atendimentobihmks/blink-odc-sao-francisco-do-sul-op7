@@ -4,7 +4,7 @@ OPLINK oficial de alta performance da unidade **OdontoCompany São Francisco do 
 
 ## 📌 Informações da Unidade
 - **Unidade:** OdontoCompany São Francisco do Sul
-- **Responsável Técnico:** Dra. Camila L. R. F. da Silva (CRO-SC 023569)
+- **Responsável Técnico:** Dr. Leonardo Carvalho Constancio (CRO-SC 23569)
 - **Cidade / UF:** São Francisco do Sul - SC
 - **WhatsApp Oficial:** (47) 9129-2896
 - **Site Oficial / LP:** [https://odc-franquados-sao-francisco-do-sul-op7.vercel.app](https://odc-franquados-sao-francisco-do-sul-op7.vercel.app)
